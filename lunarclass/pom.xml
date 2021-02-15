@@ -7,8 +7,8 @@
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>Lunar Decrypt</name>
-  <url>https://github.com/gbrlandrade/lunardecrypt</url>
+  <name>LunarClassToClass</name>
+  <url>https://github.com/gbrlandrade/LunarClassToClass</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
